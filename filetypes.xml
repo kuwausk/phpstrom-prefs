@@ -1,19 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="toml" type="Markdown" />
-      <mapping ext="ctp" type="PHP" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".env.travis" type="PLAIN_TEXT" />
-      <mapping pattern=".gitugnore" type="PLAIN_TEXT" />
-      <mapping pattern="hoge" type="PLAIN_TEXT" />
-      <mapping pattern="credentials" type="PLAIN_TEXT" />
-      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping ext="neon" type="PLAIN_TEXT" />
-      <mapping pattern="view_entries" type="SQL" />
-      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>
